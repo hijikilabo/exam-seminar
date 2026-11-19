@@ -2,7 +2,7 @@
 
 子どもが別端末から開く、閲覧専用の5教科ノートです。GitHubをサイトの正本とし、GitHub ActionsがHTML・印刷PDF・ZIPを生成してGitHub Pagesへ公開します。Macを起動しておく必要はありません。
 
-- 公開URL：<https://hijikiogan-sudo.github.io/exam-seminar/>
+- 公開URL：<https://hijikilabo.github.io/exam-seminar/>
 - 各回：`sessions/YYYY-MM-DD.html`。国語・英語・社会・数学・理科を切り替えます。
 - 数学：要点整理／実践問題詳細の2種類。中身が同一ならビルドを止めます。
 - HTMLにはCSS・JavaScript・全教科を内包。確認問題は開閉式。JavaScript無効時も全教科を読めます。
